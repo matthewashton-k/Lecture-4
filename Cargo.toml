@@ -1,0 +1,2 @@
+[workspace]
+members = ["encoder", "payload_executor", "payload_generator"]
